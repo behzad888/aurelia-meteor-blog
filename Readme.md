@@ -12,7 +12,7 @@ Just a blogging platform.
 ## Resources
 - [Example application](https://github.com/ahmedshuhel/aurelia-skeleton-meteor) : A `aurelia-meteor` port of [skeleton-navigation](http://github.com/aurelia/skeleton-navigation)
 - [Simple Todo Application](https://github.com/Markusxmr/Aurelia-Meteor-Simple-Todo) : A port of official meteor todo application.
-[aurelia sample](https://github.com/ahmedshuhel/aurelia-meteor/) by [ahmedshuhel](https://github.com/ahmedshuhel)
+- [aurelia sample](https://github.com/ahmedshuhel/aurelia-meteor/) by [ahmedshuhel](https://github.com/ahmedshuhel)
 
 ## Extensions
 
